@@ -1,0 +1,11 @@
+C:\Users\bakka\source\repos\ssalma\ssalma\bin\Debug\ssalma.exe.config
+C:\Users\bakka\source\repos\ssalma\ssalma\bin\Debug\ssalma.exe
+C:\Users\bakka\source\repos\ssalma\ssalma\bin\Debug\ssalma.pdb
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.csproj.AssemblyReference.cache
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.Form1.resources
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.Properties.Resources.resources
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.csproj.GenerateResource.cache
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.csproj.CoreCompileInputs.cache
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.exe
+C:\Users\bakka\source\repos\ssalma\ssalma\obj\Debug\ssalma.pdb
